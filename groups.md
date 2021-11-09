@@ -19,3 +19,9 @@ Srimathi Ravisankar
 Anastassiya Li
 Ana Lekveishvili
 Zein Hammad
+
+# Team DevDivas
+kikani parshad @kikaniparshad
+Harish kumar
+Okwuigbo ifeanyi Christian
+Hamame Berhanu Woldegiorgis
